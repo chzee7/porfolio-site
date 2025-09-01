@@ -9,7 +9,7 @@ function App() {
             <a href="#about">About</a>
             <a href="#work">Work</a>
             <a href="#contact">Contact</a>
-            <a href="https://linkedin.com/in/charlottezee" target="_blank" rel="noopener noreferrer" className="nav-external">LinkedIn</a>
+            <a href="https://linkedin.com/in/charlottezee" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
       </nav>
